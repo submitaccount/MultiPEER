@@ -20,11 +20,11 @@ This [notebook](https://github.com/submitaccount/MultiPEER/blob/main/notebooks/o
 
 ### 2) POS-SciBERT Model:
 
-This [notebook](https://github.com/meithnav/IIT-multi-task-aspect/blob/main/notebooks/pos_scibert_multitask_model.ipynb) consists another competitve variant of our proposed model, wherein we feed <b>POS one-hot-encoded </b> and <b> SciBERT embeddings</b> parallelly.
+This [notebook](https://github.com/submitaccount/MultiPEER/blob/main/notebooks/pos_scibert_multitask_model.ipynb) consists another competitve variant of our proposed model, wherein we feed <b>POS one-hot-encoded </b> and <b> SciBERT embeddings</b> parallelly.
 
 ### 3) Ablation Variants Models:
 
-This [notebook](https://github.com/meithnav/IIT-multi-task-aspect/blob/main/notebooks/ablations.ipynb)
+This [notebook](https://github.com/submitaccount/MultiPEER/blob/main/notebooks/ablations.ipynb)
 consists 3 variants viz, WithoutBiLSTM, WithoutAttention, WithoutBoth. In the notebook we have 3 different cells in section <b>5) Define Ablation Models</b> for initialising each variant. `Uncomment` the one that you want to reproduce and let the other two be commented.
 
 ### 4) Attention Analysis:
