@@ -16,7 +16,7 @@ The dataset contains of all the annotated review sentences, SciBERT embeddings, 
 
 ### 1) Our Proposed Model:
 
-This [notebook] (https://github.com/submitaccount/MultiPEER/blob/main/notebooks/our-model.ipynb)consists our proposed multi-task model for aspect category classification and sentiment detection.
+This [notebook](https://github.com/submitaccount/MultiPEER/blob/main/notebooks/our-model.ipynb) consists our proposed multi-task model for aspect category classification and sentiment detection.
 
 ### 2) POS-SciBERT Model:
 
